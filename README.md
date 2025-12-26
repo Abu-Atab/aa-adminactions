@@ -1,7 +1,6 @@
 # aa-adminactions
 
 Made By: **Abu Atab DEV Team**
-
 Join us here: **https://discord.gg/ZVrTWVvf5f**
 
 ---
@@ -213,5 +212,6 @@ Any form of redistribution, resale, leaking, or re-uploading is **strictly prohi
 
 
 By using this resource, you automatically agree to all terms listed in the license file.
+
 
 
