@@ -1,6 +1,8 @@
 Settings = {
     Locale = 'en', -- 'en' or 'ar'
 
+    CheckForUpdates = true,
+
     Command = 'actionsmenu',
 
     Target = {
@@ -50,6 +52,6 @@ Settings = {
 
     Logging = {
         Enabled = true,
-        Webhook = "https://discord.com/api/webhooks/1448630313319399496/5bLW4CEu_8PpK1tu9ZQ3q1QRiT_HdD772v3WnywYY1oHCewstYKFWgyZNHu9x6DGJVGl"
+        Webhook = "YOUR_WEBHOOK_HERE"
     }
 }
