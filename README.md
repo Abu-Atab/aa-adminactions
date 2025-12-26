@@ -22,11 +22,11 @@ The resource is **server-authoritative** (menu opens only after server permissio
 
 ### Screenshot
 
-![Showcase Image](https://imgur.com/a/NMPeTou)
+[Showcase Image](https://imgur.com/a/NMPeTou)
  
 ### Video Preview
 
-![Watch the video](https://streamable.com/vo2if3)
+[Watch the video](https://streamable.com/vo2if3)
 
 ---
 
@@ -208,5 +208,6 @@ Join here:
 
 This resource is **protected** and provided for **personal server use only**.
 Any form of redistribution, resale, leaking, or re-uploading is **strictly prohibited**.
+
 
 By using this resource, you automatically agree to all terms listed in the license file.
